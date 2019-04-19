@@ -1,4 +1,4 @@
-# A bot dedicated to the one and only Maurizio Mosca, sends pics of his beautiful shiny grin on command
+# A bot dedicated to the one and only Maurizio Mosca, sends pics of his beautiful shiny grin on command 
 
 import requests
 import json
